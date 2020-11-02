@@ -1,4 +1,4 @@
-package ru.mirea.lab3.practice;
+package ru.mirea.gib04.lab3.practice;
 
 public class Parrot extends Animal {
     @Override
